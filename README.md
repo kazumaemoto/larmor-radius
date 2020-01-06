@@ -10,7 +10,6 @@ Particles (listed below), temperature as electron volts, and magnetic field as t
 - python
 - numpy
 - scipy
-- matplotlib
 
 ## Usage
 
